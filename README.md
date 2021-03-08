@@ -8,4 +8,4 @@ First go to settings(s), then go to add class(a) and format your class according
 ### Method 2
 Go to the location of the file and open classes.txt.
 Now format your classes according to this format: classname,weekday,time(starttime(hh.mm)-endtime(hh.mm))(24h format),url <br />
-**Important Note:** For each class create a new line and apply the format mensioned. 
+#### **Important Note:** For each class create a new line and apply the format mensioned. 
