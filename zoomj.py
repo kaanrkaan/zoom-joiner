@@ -21,8 +21,9 @@ def getClasses():
     f = open("classes.txt","r")
     classes = []
     for x in f:
-        temp = x.split(",")
-        classes.append(temp)
+        if (x != ""):
+            temp = x.split(",")
+            classes.append(temp)
     return classes
 def addClass(classes):
     classList = classes.split(";")
